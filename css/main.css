@@ -1,0 +1,28 @@
+body section {
+  background-image: url(../assets/img/img-index/fondo-section-index-bg.png);
+  background-size: cover; }
+  body section h1 {
+    display: flex;
+    justify-content: center;
+    padding: 50px 50px 50px 50px;
+    color: black;
+    font-weight: bold;
+    text-shadow: 60%; }
+
+body a {
+  text-decoration: none; }
+
+header {
+  background-color: bisque; }
+  header img {
+    width: 300px; }
+  header nav {
+    display: flex; }
+  header .nav-links {
+    display: flex;
+    justify-content: end; }
+  header li {
+    padding: 0px 50px 0px 0px; }
+  header a {
+    font-family: 'Fuzzy Bubbles';
+    color: black; }

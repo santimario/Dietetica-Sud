@@ -1,0 +1,51 @@
+body{
+    section{
+        background-image: url(../assets/img/img-index/fondo-section-index-bg.png);
+        background-size: cover;
+        h1{
+            display: flex;
+            justify-content: center;
+            padding: 50px 50px 50px 50px;
+            // background-color: aqua;
+            color: black;
+            font-weight: bold;
+            text-shadow: 60%;
+            
+            
+        }
+    }
+
+    
+
+    a{
+        text-decoration: none;
+    }
+}
+header{
+    background-color: bisque;
+
+    img{
+        width: 300px;
+        
+    }
+
+    nav{
+        display: flex;
+        
+    }
+
+    .nav-links{
+        
+        display: flex;
+        justify-content: end;
+    }
+
+    li{
+        padding: 0px 50px 0px 0px;
+    }
+    
+    a{
+        font-family: 'Fuzzy Bubbles';
+        color: black;
+    }
+}
